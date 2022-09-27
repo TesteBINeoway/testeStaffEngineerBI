@@ -23,7 +23,7 @@ Bases de Dados
 
 ---- Caso de Uso ----
 
-O arquivo com a descrição detalhada está dentro do repositório com nome Instruções - Teste Vaga Staff Engineer BI.pdf
+O arquivo com a descrição detalhada está dentro do repositório com nome Instruções - Teste Vaga Staff Engineer BI
 
 ----------------------------------------------------------------------------------------------------------------------------
 
