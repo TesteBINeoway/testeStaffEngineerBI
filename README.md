@@ -4,11 +4,7 @@ Este é um case desenvolvido exclusivamente para o processo seletivo de Staff En
 
 Importante, após o recebimento do teste será dado o prazo de 5 dias úteis para sua devolução. Suba sua apresentação em um repositório do Github e nos envie o link ou envie seus arquivos zipados para bruno.esilva@neoway.com.br com cópia para maria.viana@neoway.com.br .
 
-
----- IMPORTANTE ----
-
-Não utilize este repositório para fazer o commit do seu teste. 
-O teste deverá ser enviado em um repositório próprio ou zipado através do e-mail.
+!!!Não utilize este repositório para fazer o commit do seu teste!!! 
 
 ---- Estrutura das Pastas ----
 
@@ -23,7 +19,7 @@ Bases de Dados
 
 ---- Caso de Uso ----
 
-O arquivo com a descrição detalhada está dentro do repositório com nome Instruções - Teste Vaga Staff Engineer BI.pdf
+O arquivo com a descrição detalhada está dentro do repositório com nome Instruções - Teste Vaga Staff Engineer BI
 
 ----------------------------------------------------------------------------------------------------------------------------
 
