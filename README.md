@@ -4,7 +4,7 @@ Este é um case desenvolvido exclusivamente para o processo seletivo de Staff En
 
 Importante, após o recebimento do teste será dado o prazo de 5 dias úteis para sua devolução. Suba sua apresentação em um repositório do Github e nos envie o link ou envie seus arquivos zipados para bruno.esilva@neoway.com.br com cópia para maria.viana@neoway.com.br .
 
-# Não utilize este repositório para fazer o commit do seu teste. 
+!!!Não utilize este repositório para fazer o commit do seu teste!!! 
 
 ---- Estrutura das Pastas ----
 
